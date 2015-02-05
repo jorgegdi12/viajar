@@ -180,6 +180,9 @@ textarea {
   border-top: 0;
   padding-bottom: 0;
 }
+.carousel-inner > .item > img {
+  min-width: 100%;
+}
 .recuerda{
   color: #CD5057;
   font-size: 1.5em;
@@ -248,6 +251,10 @@ padding-bottom: 1.5em;
     background: #f4f4f4;
     padding-top: 2em;
     padding-bottom: 1.5em;
+}
+.panel-default > .panel-heading {
+color: #fff;
+background-color: #CD5057;
 }
 .comunicate{
   padding-top: 6em;
